@@ -1,0 +1,25 @@
+@media only screen and (min-width:300px) and (max-width: 720px){
+	.app{
+		width: 100%;
+	}
+	.main{
+		padding: 0;
+	}
+	.m_br br, li br{
+		display: none
+	}
+	.left {
+		width: 100%;
+	}
+
+	.right {
+		width: 100%;
+	}
+
+	.right h2 {
+		margin: 0px 0 15px 7px;
+		max-width: 92%;
+		width: 92%;
+	}
+}
+
